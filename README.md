@@ -1,4 +1,4 @@
-# UI Design Portfolio Website
+# UI Portfolio Website
 
 ## Project Overview
 Visual Design: Gradient backgrounds, hover effects, and a modern color palette make the portfolio visually appealing.
